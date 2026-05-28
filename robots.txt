@@ -1,1 +1,2 @@
-User-agent: *Allow: /Sitemap: https://gumiho-lab.com/sitemap.xml
+User-agent: *
+Allow:/
