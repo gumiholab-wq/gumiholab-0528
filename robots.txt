@@ -1,2 +1,7 @@
 User-agent: *
-Allow:/
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://gumiho-lab.com/sitemap.xml
